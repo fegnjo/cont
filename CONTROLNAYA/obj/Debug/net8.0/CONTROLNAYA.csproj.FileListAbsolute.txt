@@ -1,0 +1,15 @@
+C:\Users\aleks\OneDrive\Рабочий стол\контрольная\CONTROLNAYA\bin\Debug\net8.0\CONTROLNAYA.exe
+C:\Users\aleks\OneDrive\Рабочий стол\контрольная\CONTROLNAYA\bin\Debug\net8.0\CONTROLNAYA.deps.json
+C:\Users\aleks\OneDrive\Рабочий стол\контрольная\CONTROLNAYA\bin\Debug\net8.0\CONTROLNAYA.runtimeconfig.json
+C:\Users\aleks\OneDrive\Рабочий стол\контрольная\CONTROLNAYA\bin\Debug\net8.0\CONTROLNAYA.dll
+C:\Users\aleks\OneDrive\Рабочий стол\контрольная\CONTROLNAYA\bin\Debug\net8.0\CONTROLNAYA.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\контрольная\CONTROLNAYA\obj\Debug\net8.0\CONTROLNAYA.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Рабочий стол\контрольная\CONTROLNAYA\obj\Debug\net8.0\CONTROLNAYA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Рабочий стол\контрольная\CONTROLNAYA\obj\Debug\net8.0\CONTROLNAYA.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\контрольная\CONTROLNAYA\obj\Debug\net8.0\CONTROLNAYA.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Рабочий стол\контрольная\CONTROLNAYA\obj\Debug\net8.0\CONTROLNAYA.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\контрольная\CONTROLNAYA\obj\Debug\net8.0\CONTROLNAYA.dll
+C:\Users\aleks\OneDrive\Рабочий стол\контрольная\CONTROLNAYA\obj\Debug\net8.0\refint\CONTROLNAYA.dll
+C:\Users\aleks\OneDrive\Рабочий стол\контрольная\CONTROLNAYA\obj\Debug\net8.0\CONTROLNAYA.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\контрольная\CONTROLNAYA\obj\Debug\net8.0\CONTROLNAYA.genruntimeconfig.cache
+C:\Users\aleks\OneDrive\Рабочий стол\контрольная\CONTROLNAYA\obj\Debug\net8.0\ref\CONTROLNAYA.dll
